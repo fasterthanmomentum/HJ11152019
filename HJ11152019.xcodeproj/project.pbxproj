@@ -15,6 +15,7 @@
 		88F8B219237F59D600125583 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88F8B217237F59D600125583 /* LaunchScreen.storyboard */; };
 		88F8B224237F59D600125583 /* HJ11152019Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F8B223237F59D600125583 /* HJ11152019Tests.swift */; };
 		88F8B22F237F59D700125583 /* HJ11152019UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F8B22E237F59D700125583 /* HJ11152019UITests.swift */; };
+		88F8B23D237F634C00125583 /* HairJournalAppointmentandReviewSpecs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F8B23C237F634C00125583 /* HairJournalAppointmentandReviewSpecs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		88F8B22A237F59D700125583 /* HJ11152019UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HJ11152019UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88F8B22E237F59D700125583 /* HJ11152019UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HJ11152019UITests.swift; sourceTree = "<group>"; };
 		88F8B230237F59D700125583 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88F8B23C237F634C00125583 /* HairJournalAppointmentandReviewSpecs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HairJournalAppointmentandReviewSpecs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				88F8B20E237F59D500125583 /* SceneDelegate.swift */,
 				88F8B210237F59D500125583 /* ViewController.swift */,
 				88F8B212237F59D500125583 /* Main.storyboard */,
+				88F8B23C237F634C00125583 /* HairJournalAppointmentandReviewSpecs.swift */,
 				88F8B215237F59D600125583 /* Assets.xcassets */,
 				88F8B217237F59D600125583 /* LaunchScreen.storyboard */,
 				88F8B21A237F59D600125583 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				88F8B211237F59D500125583 /* ViewController.swift in Sources */,
 				88F8B20D237F59D500125583 /* AppDelegate.swift in Sources */,
+				88F8B23D237F634C00125583 /* HairJournalAppointmentandReviewSpecs.swift in Sources */,
 				88F8B20F237F59D500125583 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
